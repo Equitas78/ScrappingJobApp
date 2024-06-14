@@ -1,8 +1,10 @@
 {
-    "accessibility.signals.sounds.volume": 0,
     "codeium.enableConfig": {
         
 
         "*": true
+    },
+    "accessibility.signalOptions": {
+        "volume": 0
     }
 }
